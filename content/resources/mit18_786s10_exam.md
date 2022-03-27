@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1dae952e-e0bd-39f3-2164-c1c0f7099eab
 resourcetype: Document
 title: MIT18_786S10_exam.pdf
 uid: d373f0f0-5f5b-81ff-4bcd-40427e2b88a5
