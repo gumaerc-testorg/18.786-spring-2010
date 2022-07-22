@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the lecture notes and readings for each session
+  of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings and Lecture Notes
 uid: 9515bca6-7474-82f9-babf-263b152e20af
 ---
@@ -37,7 +41,7 @@ KEY DATES
 \[SAM\] 1.1-1.3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_786s10_lec1))
+({{% resource_link 2497cbae-86e2-cbd3-3429-4be6c11999c5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -52,7 +56,7 @@ KEY DATES
 \[SAM\] 1.4-1.7
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_786s10_lec2))
+({{% resource_link ab7770ea-0b70-914e-7aee-2949239c2432 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 1 out
@@ -67,7 +71,7 @@ Problem set 1 out
 \[SAM\] 2.1-2.5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_786s10_lec3))
+({{% resource_link f7479582-de85-4f84-1b07-5851540cd7c3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -82,7 +86,7 @@ Problem set 1 out
 \[SAM\] 2.6-2.9
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_786s10_lec4))
+({{% resource_link b1f739b8-c424-973e-e0bb-446260874ffc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -103,7 +107,7 @@ Problem set 1 due
 \[SAM\] 3.1-3.5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_786s10_lec5))
+({{% resource_link c977fdc1-643d-b406-2517-88421e5f3a1c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -118,7 +122,7 @@ Problem set 1 due
 Valuations and completions lecture
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_786s10_lec6))
+({{% resource_link 4aeaf16d-2691-fd78-4133-2e8c88c14c69 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -145,7 +149,7 @@ Lecture notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_786s10_lec7))
+({{% resource_link e323808f-dea7-8512-f392-434b41e68981 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -166,7 +170,7 @@ Problem set 3 due
 \[SAM\] 4.1-4.3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_786s10_lec8))
+({{% resource_link 922977f0-a10a-e5c9-b8ff-a822e18bdecd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -181,7 +185,7 @@ Problem set 3 due
 \[SAM\] 4.4-4.7
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_786s10_lec9))
+({{% resource_link dc55699d-fbf1-1cb1-456a-f8476fb43a98 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -202,7 +206,7 @@ Problem set 4 due
 \[SAM\] 5.1-5.2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_786s10_lec10))
+({{% resource_link ada79808-af82-1862-d053-e84fcf38815a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -217,7 +221,7 @@ Problem set 4 due
 \[SAM\] 5.3-5.4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_786s10_lec11))
+({{% resource_link 620d0e82-316d-38d6-bdaf-fdd4777f0449 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -238,7 +242,7 @@ Problem set 5 due
 \[SAM\] 5.5-5.7
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_786s10_lec12))
+({{% resource_link d6cd7692-75b6-499f-9c60-f2bb2a1f5cf8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -283,7 +287,7 @@ Problem set 6 due
 Midterm
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_786s10_midterm))
+({{% resource_link 07fe7f9c-26af-6a50-e850-237a7b672ebc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 7 out
