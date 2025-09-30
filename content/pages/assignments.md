@@ -44,7 +44,7 @@ Problem set 2 ({{% resource_link 282cf667-df52-d72f-2172-14e44bf3c6e6 "PDF" %}})
 
 \- In problem 6, to produce an element of a quadratic subextension of the cyclotomic field, add the elements of an H-orbit of a suitable generator of the cyclotomic field, where H is a suitable subgroup of the Galois group G.
 
-\- In problem 7, if you haven't seen tensor products of modules before, see an algebra book (e.g. Lang or Hungerford), or the [Wikipedia page](http://en.wikipedia.org/wiki/Tensor_product_of_modules#Construction).
+\- In problem 7, if you haven't seen tensor products of modules before, see an algebra book (e.g. Lang or Hungerford), or the {{% resource_link "3c75a7e0-3f48-43bd-bc77-ba8dd62489fa" "Wikipedia page" %}}.
 
 
 {{< tdclose >}}
