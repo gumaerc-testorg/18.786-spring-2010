@@ -12,7 +12,7 @@ Readings come from the course texts:
 
 \[SAM\] Samuel, Pierre. _Algebraic Theory of Numbers_. Translated by Allan J. Silberger. Mineola, NY: Dover, 2008. ISBN: 9780486466668.
 
-\[MIL\] Milne, J. S. _Algebraic Number Theory,_ 2009. (Available at [Mathematics Site](http://www.jmilne.org/math/)).
+\[MIL\] Milne, J. S. _Algebraic Number Theory,_ 2009. (Available at {{% resource_link "f463508c-0008-4865-8152-526c9114b7fc" "Mathematics Site" %}}).
 
 {{< tableopen >}}
 {{< theadopen >}}
