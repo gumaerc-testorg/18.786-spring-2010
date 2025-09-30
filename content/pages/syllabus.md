@@ -25,7 +25,7 @@ This course is an introduction to algebraic number theory. We will follow Samuel
 
 There will be assigned readings for every class. I will go through the proofs of the more important theorems in class, and maybe some extra material (for instance, proofs omitted in the book).
 
-There will also be a focus on computer algebra calculations, esp. using [gp/Pari](http://pari.math.u-bordeaux.fr/) and [sage](http://www.sagemath.org/).  Siman Wong's [gp/Pari tutorial](http://www.math.umass.edu/~siman/09.791N/tutorial.pdf) is helpful.
+There will also be a focus on computer algebra calculations, esp. using {{% resource_link "336e353f-9909-4075-8abf-9ded9a827b7a" "gp/Pari" %}} and {{% resource_link "e1627f55-ea76-4971-87db-24250b521d47" "sage" %}}.  Siman Wong's {{% resource_link "84bf35ed-59c9-472c-957b-965bf3e0647e" "gp/Pari tutorial" %}} is helpful.
 
 Topics to be covered include
 
@@ -43,7 +43,7 @@ Textbook
 
 Samuel, Pierre. _Algebraic Theory of Numbers_. Translated by Allan J. Silberger. Mineola, NY: Dover, 2008. ISBN: 9780486466668.
 
-Milne, J. S. _Algebraic Number Theory,_ 2009. (Available at [Mathematics Site](http://www.jmilne.org/math/)).
+Milne, J. S. _Algebraic Number Theory,_ 2009. (Available at {{% resource_link "f463508c-0008-4865-8152-526c9114b7fc" "Mathematics Site" %}}).
 
 Homework and Grading Scheme
 ---------------------------
